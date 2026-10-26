@@ -31,6 +31,15 @@ To revise and improve my cybersecurity skills.
 - [VirtualBox](https://www.virtualbox.org)
 - [Kali Linux](https://www.kali.org/get-kali/)
 
+  ## Lab Setup Procedure
+1. Downloaded the Kali Linux VirtualBox image from kali.org
+2. Extracted the downloaded file using 7-Zip
+3. Opened VirtualBox and clicked Machine > Add (or double-clicked the .vbox file)
+4. Set the VM to 4 GB RAM and 2 processors
+5. Set the network adapter to NAT Network
+6. Started the VM and logged in
+7. Ran `sudo apt update` to update the system
+   
 ## Author
 **Silifat Damilola Olanrewaju**
 
