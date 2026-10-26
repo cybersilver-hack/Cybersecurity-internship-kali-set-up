@@ -43,7 +43,7 @@ To revise and improve my cybersecurity skills.
 ## Author
 **Silifat Damilola Olanrewaju**
 
-LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/silifatdamilolaolanrewaju/)
+LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/silifat-olanrewaju/)
 
 ## Project Information
 Program Name: Cybersecurity at Networkwalks |Week:01 |Project:Cybersecurity & Pentesting Lab Setup |Repository:Github
